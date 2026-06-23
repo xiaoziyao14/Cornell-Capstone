@@ -1,0 +1,15 @@
+# 数据文件
+Data/
+*.csv
+*.xlsx
+*.xls
+
+# Python相关
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# 系统文件
+.DS_Store
