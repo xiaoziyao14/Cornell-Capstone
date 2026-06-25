@@ -11,6 +11,13 @@ __pycache__/
 venv/
 .env
 
+# R相关
+.Rhistory
+.RData
+.Rproj.user
+
 # 系统文件
 .DS_Store
+*.swp
+*~
 unit1/
